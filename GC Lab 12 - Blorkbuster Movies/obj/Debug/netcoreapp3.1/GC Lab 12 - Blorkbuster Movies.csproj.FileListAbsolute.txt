@@ -1,0 +1,13 @@
+C:\Users\millr\source\repos\GC Lab 12 - Blorkbuster Movies\GC Lab 12 - Blorkbuster Movies\bin\Debug\netcoreapp3.1\GC Lab 12 - Blorkbuster Movies.exe
+C:\Users\millr\source\repos\GC Lab 12 - Blorkbuster Movies\GC Lab 12 - Blorkbuster Movies\bin\Debug\netcoreapp3.1\GC Lab 12 - Blorkbuster Movies.deps.json
+C:\Users\millr\source\repos\GC Lab 12 - Blorkbuster Movies\GC Lab 12 - Blorkbuster Movies\bin\Debug\netcoreapp3.1\GC Lab 12 - Blorkbuster Movies.runtimeconfig.json
+C:\Users\millr\source\repos\GC Lab 12 - Blorkbuster Movies\GC Lab 12 - Blorkbuster Movies\bin\Debug\netcoreapp3.1\GC Lab 12 - Blorkbuster Movies.runtimeconfig.dev.json
+C:\Users\millr\source\repos\GC Lab 12 - Blorkbuster Movies\GC Lab 12 - Blorkbuster Movies\bin\Debug\netcoreapp3.1\GC Lab 12 - Blorkbuster Movies.dll
+C:\Users\millr\source\repos\GC Lab 12 - Blorkbuster Movies\GC Lab 12 - Blorkbuster Movies\bin\Debug\netcoreapp3.1\GC Lab 12 - Blorkbuster Movies.pdb
+C:\Users\millr\source\repos\GC Lab 12 - Blorkbuster Movies\GC Lab 12 - Blorkbuster Movies\obj\Debug\netcoreapp3.1\GC Lab 12 - Blorkbuster Movies.csprojAssemblyReference.cache
+C:\Users\millr\source\repos\GC Lab 12 - Blorkbuster Movies\GC Lab 12 - Blorkbuster Movies\obj\Debug\netcoreapp3.1\GC Lab 12 - Blorkbuster Movies.csproj.CoreCompileInputs.cache
+C:\Users\millr\source\repos\GC Lab 12 - Blorkbuster Movies\GC Lab 12 - Blorkbuster Movies\obj\Debug\netcoreapp3.1\GC Lab 12 - Blorkbuster Movies.AssemblyInfoInputs.cache
+C:\Users\millr\source\repos\GC Lab 12 - Blorkbuster Movies\GC Lab 12 - Blorkbuster Movies\obj\Debug\netcoreapp3.1\GC Lab 12 - Blorkbuster Movies.AssemblyInfo.cs
+C:\Users\millr\source\repos\GC Lab 12 - Blorkbuster Movies\GC Lab 12 - Blorkbuster Movies\obj\Debug\netcoreapp3.1\GC Lab 12 - Blorkbuster Movies.dll
+C:\Users\millr\source\repos\GC Lab 12 - Blorkbuster Movies\GC Lab 12 - Blorkbuster Movies\obj\Debug\netcoreapp3.1\GC Lab 12 - Blorkbuster Movies.pdb
+C:\Users\millr\source\repos\GC Lab 12 - Blorkbuster Movies\GC Lab 12 - Blorkbuster Movies\obj\Debug\netcoreapp3.1\GC Lab 12 - Blorkbuster Movies.genruntimeconfig.cache
